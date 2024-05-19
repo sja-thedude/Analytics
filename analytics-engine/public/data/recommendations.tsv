@@ -1,0 +1,659 @@
+id	title	asset_type	asset_id	organisation_id	user_id	creator_id	system_score	user_score	created	opened	deleted	saved	clicked_out
+1	AFC Gamma is looking to finance unburdened cannabis borrowers	content	95	1	98	143	0.31		1715376481	1715383681	1715390881		1715387281
+2	Massachusetts cannabis regulator expanding secret shopper program	content	71	1	98	98	0.3		1715376481	1715383681		1715387281	
+3	Institutional investor puts $50 million into cannabis operator Canopy Growth	content	14	1	98	99	0.29		1715376481	1715380081	1715383681		
+4	AFC Gamma provides $34 million to Sunburn Cannabis in debt capital	content	69	1	98	144	0.28		1715376481	1715383681	1715387281		
+5	Cannabis operator Canopy raising $35 million in upsized private placement	content	2	1	98	98	0.27		1715376481	1715383681	1715387281	1715380381	1715383981
+6	David Gonzales | Founder of “A Cannabis Company” , #ÅCannabis Magician🐇🤠 , Specializes in verbal telekinesis	contact	290	1	98	98	0.51		1715376481	1715380081	1715383681		1715380141
+7	Emanuel Zareh | Investor, Professor. Focused on venture capital and multi-asset class opportunities Talks about #startup, #founders, #fundraising, #seedfunding, and #venturecapital	contact	150	1	98	143	0.47		1715376481	1715383681			
+8	Harete Enriquez | Breakthrough Therapy for People Living with Parkinson’s Disease	contact	396	1	98	143	0.45		1715376481	1715380081			
+9	Jaime Cahalan | COO at Stanley Brothers USA Holdings, Inc.	contact	322	1	98	99	0.42		1715376481	1715383681	1715380261	1715387281	1715390881
+10	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	1	98	99	0.42		1715376481	1715380081	1715383681	1715380261	1715380141
+11	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	1	98	99	0.46		1715376481	1715380081	1715383681	1715380261	1715380141
+12	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	1	98	98	0.46		1715376481	1715380081	1715380261		1715380141
+13	Upwise Capital: Cannabis Business Financing on the Front Lines: Unsecured and Secured Debt Lending Options	event	1203	1	98	143	0.41		1715376481	1715380081	1715383681	1715380381	
+14	Medicinal Applications of Cannabis for Cancer *In-Person Blue Ash*	event	436	1	98	143	0.34		1715376481	1715380081	1715383681	1715380261	1715380141
+15	Essential Cannabis Businesses and COVID-19: Addressing Your Top Supply Chain and Retail Challenges	event	1241	1	98	98	0.33		1715376481	1715383681		1715387281	
+16	AFC Gamma is looking to finance unburdened cannabis borrowers	content	95	1	99	98	0.31		1715376481	1715380081	1715383681	1715380381	1715383981
+17	Massachusetts cannabis regulator expanding secret shopper program	content	71	1	99	143	0.3		1715376481	1715383681	1715380141		1715387281
+18	Institutional investor puts $50 million into cannabis operator Canopy Growth	content	14	1	99	143	0.29		1715376481	1715380081		1715380261	1715380141
+19	AFC Gamma provides $34 million to Sunburn Cannabis in debt capital	content	69	1	99	98	0.28		1715376481	1715383681	1715387281		
+20	Cannabis operator Canopy raising $35 million in upsized private placement	content	2	1	99	98	0.27		1715376481	1715383681	1715390881	1715387281	1715380141
+21	David Gonzales | Founder of “A Cannabis Company” , #ÅCannabis Magician🐇🤠 , Specializes in verbal telekinesis	contact	290	1	99	143	0.51		1715376481	1715383681	1715387281	1715380261	1715380141
+22	Emanuel Zareh | Investor, Professor. Focused on venture capital and multi-asset class opportunities Talks about #startup, #founders, #fundraising, #seedfunding, and #venturecapital	contact	150	1	99	99	0.47		1715376481	1715383681	1715390881	1715380381	1715387281
+23	Harete Enriquez | Breakthrough Therapy for People Living with Parkinson’s Disease	contact	396	1	99	99	0.45		1715376481	1715383681		1715387281	
+24	Jaime Cahalan | COO at Stanley Brothers USA Holdings, Inc.	contact	322	1	99	143	0.42		1715376481				
+25	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	1	99	99	0.42		1715376481	1715380081	1715383681	1715380381	1715383981
+26	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	1	99	99	0.46		1715376481	1715383681	1715390881		1715387281
+27	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	1	99	144	0.46		1715376481	1715383681	1715380141		
+28	Upwise Capital: Cannabis Business Financing on the Front Lines: Unsecured and Secured Debt Lending Options	event	1203	1	99	98	0.41		1715376481	1715383681	1715387281		
+29	Medicinal Applications of Cannabis for Cancer *In-Person Blue Ash*	event	436	1	99	143	0.34		1715376481	1715383681		1715387281	1715390881
+30	Essential Cannabis Businesses and COVID-19: Addressing Your Top Supply Chain and Retail Challenges	event	1241	1	99	144	0.33		1715376481	1715383681		1715380261	1715387281
+31	AFC Gamma is looking to finance unburdened cannabis borrowers	content	95	1	143	144	0.31		1715376481	1715383681	1715380261		1715380141
+32	Massachusetts cannabis regulator expanding secret shopper program	content	71	1	143	98	0.3		1715376481	1715383681	1715390881		1715387281
+33	Institutional investor puts $50 million into cannabis operator Canopy Growth	content	14	1	143	98	0.29		1715376481		1715383681		
+34	AFC Gamma provides $34 million to Sunburn Cannabis in debt capital	content	69	1	143	143	0.28		1715376481	1715383681		1715380381	
+35	Cannabis operator Canopy raising $35 million in upsized private placement	content	2	1	143	143	0.27		1715376481	1715383681	1715394481	1715387281	1715390881
+36	David Gonzales | Founder of “A Cannabis Company” , #ÅCannabis Magician🐇🤠 , Specializes in verbal telekinesis	contact	290	1	143	144	0.51		1715376481		1715383681		
+37	Emanuel Zareh | Investor, Professor. Focused on venture capital and multi-asset class opportunities Talks about #startup, #founders, #fundraising, #seedfunding, and #venturecapital	contact	150	1	143	144	0.47		1715376481	1715383681	1715380261		1715387281
+38	Harete Enriquez | Breakthrough Therapy for People Living with Parkinson’s Disease	contact	396	1	143	143	0.45		1715376481	1715383681	1715390881		1715387281
+39	Jaime Cahalan | COO at Stanley Brothers USA Holdings, Inc.	contact	322	1	143	144	0.42		1715376481	1715380081			
+40	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	1	143	99	0.42		1715376481		1715383681		
+41	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	1	143	144	0.46		1715376481	1715383681			
+42	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	1	143	98	0.46		1715376481	1715380081	1715383681	1715380381	1715383981
+43	Upwise Capital: Cannabis Business Financing on the Front Lines: Unsecured and Secured Debt Lending Options	event	1203	1	143	144	0.41		1715376481	1715383681		1715380261	1715380141
+44	Medicinal Applications of Cannabis for Cancer *In-Person Blue Ash*	event	436	1	143	144	0.34		1715376481	1715383681	1715390881	1715387281	1715380141
+45	Essential Cannabis Businesses and COVID-19: Addressing Your Top Supply Chain and Retail Challenges	event	1241	1	143	99	0.33		1715376481	1715383681		1715387281	
+46	AFC Gamma is looking to finance unburdened cannabis borrowers	content	95	1	144	144	0.31		1715376481	1715383681		1715387281	1715383981
+47	Massachusetts cannabis regulator expanding secret shopper program	content	71	1	144	143	0.3		1715376481	1715383681	1715387281		
+48	Institutional investor puts $50 million into cannabis operator Canopy Growth	content	14	1	144	98	0.29		1715376481	1715380081	1715383681	1715380261	1715380141
+49	AFC Gamma provides $34 million to Sunburn Cannabis in debt capital	content	69	1	144	143	0.28		1715376481	1715380081		1715380381	1715383981
+50	Cannabis operator Canopy raising $35 million in upsized private placement	content	2	1	144	98	0.27		1715376481	1715380081			
+51	David Gonzales | Founder of “A Cannabis Company” , #ÅCannabis Magician🐇🤠 , Specializes in verbal telekinesis	contact	290	1	144	98	0.51		1715376481	1715383681	1715380141	1715387281	
+52	Emanuel Zareh | Investor, Professor. Focused on venture capital and multi-asset class opportunities Talks about #startup, #founders, #fundraising, #seedfunding, and #venturecapital	contact	150	1	144	143	0.47		1715376481	1715383681	1715380141		
+53	Harete Enriquez | Breakthrough Therapy for People Living with Parkinson’s Disease	contact	396	1	144	144	0.45		1715376481	1715380081	1715383681	1715380381	
+54	Jaime Cahalan | COO at Stanley Brothers USA Holdings, Inc.	contact	322	1	144	143	0.42		1715376481	1715383681		1715380261	1715380141
+55	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	1	144	98	0.42		1715376481	1715383681		1715380381	1715387281
+56	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	1	144	143	0.46		1715376481		1715380081		
+57	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	1	144	144	0.46		1715376481	1715380081	1715380261		1715380141
+58	Upwise Capital: Cannabis Business Financing on the Front Lines: Unsecured and Secured Debt Lending Options	event	1203	1	144	99	0.41		1715376481	1715383681		1715387281	1715380141
+59	Medicinal Applications of Cannabis for Cancer *In-Person Blue Ash*	event	436	1	144	144	0.34		1715376481	1715383681	1715390881	1715380261	1715387281
+60	Essential Cannabis Businesses and COVID-19: Addressing Your Top Supply Chain and Retail Challenges	event	1241	1	144	143	0.33		1715376481	1715383681		1715380381	1715383981
+61	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	18	96	143	0.38		1715376500	1715383700	1715380280		1715387300
+62	How R&D cannabis lines help cultivators conduct market research	content	82	18	96	144	0.31		1715376500	1715380100	1715383700	1715380400	1715384000
+63	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	18	96	144	0.31		1715376500	1715383700	1715390900	1715380400	1715387300
+64	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	18	96	144	0.3		1715376500	1715383700	1715390900		1715387300
+65	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	18	96	144	0.3		1715376500	1715383700	1715387300		
+66	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	18	96	99	0.62		1715376500		1715383700		
+67	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	18	96	143	0.58		1715376500	1715383700	1715387300	1715380400	1715384000
+68	Erin Alexander | Content @ TechGC	contact	416	18	96	98	0.56		1715376500	1715383700	1715387300		
+69	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	18	96	143	0.56		1715376500	1715383700	1715380160	1715387300	
+70	Ernesto Billones | Investor Relations Associate	contact	398	18	96	143	0.54		1715376500	1715383700	1715390900	1715380280	1715387300
+71	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	18	96	143	0.44		1715376500	1715383700		1715380280	1715380160
+72	Canna Connect 04 Community Service Event | Uptown Minneapolis Clean Up	event	636	18	96	98	0.43		1715376500	1715383700	1715390900		1715387300
+73	Innovation CannaTech 2024	event	8	18	96	98	0.42		1715376500	1715383700	1715390900		1715387300
+74	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	18	96	98	0.41		1715376500	1715380100		1715380280	1715380160
+75	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	18	96	143	0.4		1715376500	1715380100	1715383700		
+76	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	18	100	144	0.38		1715376500	1715383700		1715380400	1715384000
+77	How R&D cannabis lines help cultivators conduct market research	content	82	18	100	143	0.31		1715376500	1715383700		1715380280	1715387300
+78	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	18	100	144	0.31		1715376500	1715383700			
+79	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	18	100	99	0.3		1715376500	1715380100			
+80	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	18	100	98	0.3		1715376500	1715380100			
+81	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	18	100	99	0.62		1715376500	1715383700	1715390900	1715380400	1715387300
+82	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	18	100	144	0.58		1715376500	1715383700		1715380400	1715387300
+83	Erin Alexander | Content @ TechGC	contact	416	18	100	98	0.56		1715376500	1715383700		1715380400	1715387300
+84	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	18	100	98	0.56		1715376500	1715383700			
+85	Ernesto Billones | Investor Relations Associate	contact	398	18	100	144	0.54		1715376500		1715383700		
+86	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	18	100	99	0.44		1715376500	1715383700	1715394500	1715387300	1715390900
+87	Canna Connect 04 Community Service Event | Uptown Minneapolis Clean Up	event	636	18	100	99	0.43		1715376500	1715383700	1715390900		1715387300
+88	Innovation CannaTech 2024	event	8	18	100	143	0.42		1715376500	1715380100		1715380400	1715384000
+89	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	18	100	99	0.41		1715376500	1715383700		1715387300	1715390900
+90	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	18	100	144	0.4		1715376500	1715383700	1715380160		
+91	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	19	101	143	0.38		1715376513	1715383713		1715380293	1715380173
+92	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	19	101	144	0.31		1715376513	1715380113	1715383713		
+93	How R&D cannabis lines help cultivators conduct market research	content	82	19	101	99	0.31		1715376513	1715383713	1715387313		
+94	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	19	101	98	0.3		1715376513	1715383713	1715390913	1715387313	1715380173
+95	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	19	101	98	0.3		1715376513	1715383713			1715387313
+96	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	19	101	98	0.62		1715376513	1715383713	1715390913	1715380413	1715387313
+97	Christine Parman | Cannabis	contact	220	19	101	144	0.52		1715376513	1715383713		1715387313	1715390913
+98	David Gonzales | Founder of “A Cannabis Company” , #ÅCannabis Magician🐇🤠 , Specializes in verbal telekinesis	contact	290	19	101	98	0.51		1715376513	1715383713	1715394513	1715387313	1715390913
+99	Ernesto Billones | Investor Relations Associate	contact	398	19	101	98	0.49		1715376513	1715383713	1715390913	1715387313	1715384013
+100	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	19	101	99	0.44		1715376513	1715380113	1715383713		1715380173
+101	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	19	101	144	0.37		1715376513	1715380113		1715380293	1715380173
+102	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	19	101	143	0.37		1715376513	1715383713		1715380413	
+103	Surna: What to Expect When You're Expanding or Retrofitting	event	1245	19	101	143	0.37		1715376513	1715380113		1715380293	1715380173
+104	AGronomic IQ: Maximizing Your Investment with Smart HVAC Decisions	event	1211	19	101	144	0.36		1715376513	1715383713			
+105	IRS Audits: Mistakes to Avoid	event	1202	19	101	99	0.36		1715376513	1715383713		1715387313	
+106	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	19	102	99	0.38		1715376513	1715383713	1715390913		1715387313
+107	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	19	102	99	0.31		1715376513	1715383713			1715387313
+108	How R&D cannabis lines help cultivators conduct market research	content	82	19	102	98	0.31		1715376513	1715383713			
+109	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	19	102	98	0.3		1715376513	1715380113	1715383713		
+110	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	19	102	143	0.3		1715376513	1715383713	1715390913		1715387313
+111	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	19	102	98	0.62		1715376513	1715380113	1715383713	1715380413	1715384013
+112	Christine Parman | Cannabis	contact	220	19	102	143	0.52		1715376513	1715383713		1715380293	1715380173
+113	David Gonzales | Founder of “A Cannabis Company” , #ÅCannabis Magician🐇🤠 , Specializes in verbal telekinesis	contact	290	19	102	144	0.51		1715376513	1715383713		1715380293	1715380173
+114	Ernesto Billones | Investor Relations Associate	contact	398	19	102	99	0.49		1715376513	1715383713	1715380113		
+115	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	19	102	98	0.44		1715376513	1715383713	1715390913		1715387313
+116	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	19	102	144	0.37		1715376513	1715380113	1715383713		1715380173
+117	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	19	102	143	0.37		1715376513	1715383713		1715387313	1715390913
+118	Surna: What to Expect When You're Expanding or Retrofitting	event	1245	19	102	143	0.37		1715376513	1715383713		1715380413	
+119	AGronomic IQ: Maximizing Your Investment with Smart HVAC Decisions	event	1211	19	102	98	0.36		1715376513	1715380113	1715383713		
+120	IRS Audits: Mistakes to Avoid	event	1202	19	102	99	0.36		1715376513	1715380113	1715383713		
+121	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	19	103	144	0.38		1715376513	1715380113	1715383713		1715380173
+122	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	19	103	98	0.31		1715376513	1715383713			
+123	How R&D cannabis lines help cultivators conduct market research	content	82	19	103	143	0.31		1715376513	1715380113			
+124	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	19	103	98	0.3		1715376513	1715383713		1715380413	
+125	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	19	103	143	0.3		1715376513	1715383713	1715390913		1715387313
+126	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	19	103	144	0.62		1715376513	1715383713	1715394513	1715387313	1715390913
+127	Christine Parman | Cannabis	contact	220	19	103	98	0.52		1715376513	1715383713	1715380113		1715387313
+128	David Gonzales | Founder of “A Cannabis Company” , #ÅCannabis Magician🐇🤠 , Specializes in verbal telekinesis	contact	290	19	103	143	0.51		1715376513	1715383713			1715380173
+129	Ernesto Billones | Investor Relations Associate	contact	398	19	103	98	0.49		1715376513	1715383713		1715387313	
+130	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	19	103	99	0.44		1715376513	1715383713	1715390913	1715380413	1715387313
+131	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	19	103	98	0.37		1715376513	1715383713		1715387313	1715390913
+132	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	19	103	98	0.37		1715376513	1715383713	1715390913		1715387313
+133	Surna: What to Expect When You're Expanding or Retrofitting	event	1245	19	103	144	0.37		1715376513	1715383713	1715394513	1715387313	1715390913
+134	AGronomic IQ: Maximizing Your Investment with Smart HVAC Decisions	event	1211	19	103	98	0.36		1715376513	1715383713		1715387313	
+135	IRS Audits: Mistakes to Avoid	event	1202	19	103	143	0.36		1715376513	1715383713		1715387313	1715380173
+136	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	20	104	144	0.38		1715376525	1715383725	1715390925		1715387325
+137	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	20	104	99	0.31		1715376525	1715383725		1715380425	1715387325
+138	How R&D cannabis lines help cultivators conduct market research	content	82	20	104	144	0.31		1715376525	1715380125	1715383725		1715380185
+139	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	20	104	144	0.3		1715376525	1715383725	1715390925	1715380425	1715387325
+140	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	20	104	143	0.3		1715376525	1715380125	1715383725		1715380185
+141	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	20	104	144	0.62		1715376525	1715383725		1715380425	1715387325
+142	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	20	104	143	0.56		1715376525	1715383725		1715387325	1715380185
+143	Erin Alexander | Content @ TechGC	contact	416	20	104	143	0.56		1715376525	1715380125	1715383725	1715380305	1715380185
+144	Christine Parman | Cannabis	contact	220	20	104	144	0.52		1715376525	1715383725		1715380305	1715380185
+145	David Gonzales | Founder of “A Cannabis Company” , #ÅCannabis Magician🐇🤠 , Specializes in verbal telekinesis	contact	290	20	104	143	0.51		1715376525	1715380125	1715383725		
+146	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	20	104	99	0.4		1715376525	1715380125	1715380185		
+147	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	20	104	144	0.37		1715376525	1715383725	1715380305	1715387325	1715390925
+148	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	20	104	98	0.37		1715376525	1715380125	1715383725	1715380425	1715384025
+149	Surna: What to Expect When You're Expanding or Retrofitting	event	1245	20	104	143	0.37		1715376525				
+150	AGronomic IQ: Maximizing Your Investment with Smart HVAC Decisions	event	1211	20	104	99	0.36		1715376525	1715383725	1715390925	1715380425	1715387325
+151	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	21	105	99	0.38		1715376541	1715383741		1715387341	
+152	How R&D cannabis lines help cultivators conduct market research	content	82	21	105	99	0.31		1715376541	1715383741	1715394541	1715387341	1715390941
+153	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	21	105	99	0.31		1715376541	1715380141		1715380321	1715380201
+154	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	21	105	98	0.3		1715376541	1715383741	1715394541	1715387341	1715390941
+155	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	21	105	98	0.3		1715376541	1715383741	1715390941	1715380441	1715387341
+156	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	21	105	144	0.62		1715376541	1715380141			
+157	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	21	105	144	0.56		1715376541	1715383741	1715380141		1715387341
+158	Erin Alexander | Content @ TechGC	contact	416	21	105	143	0.56		1715376541	1715383741	1715394541	1715387341	1715390941
+159	Ernesto Billones | Investor Relations Associate	contact	398	21	105	144	0.54		1715376541	1715383741	1715394541	1715387341	1715390941
+160	Jesse Channon | Chief Commercial Officer at Columbia Care	contact	333	21	105	143	0.53		1715376541	1715383741	1715390941	1715380321	1715387341
+161	Innovation CannaTech 2024	event	8	21	105	98	0.42		1715376541	1715380141	1715383741	1715380321	1715380201
+162	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	21	105	99	0.4		1715376541	1715383741	1715394541	1715387341	1715390941
+163	Grower Spotlight: Aeriz	event	1222	21	105	99	0.39		1715376541	1715383741	1715380321		1715387341
+164	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	21	105	143	0.39		1715376541	1715383741	1715387341	1715380441	
+165	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	21	105	99	0.37		1715376541	1715383741		1715380441	
+166	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	21	106	98	0.38		1715376541	1715383741	1715380321		1715387341
+167	How R&D cannabis lines help cultivators conduct market research	content	82	21	106	99	0.31		1715376541	1715383741	1715390941		1715387341
+168	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	21	106	99	0.31		1715376541	1715380141			
+169	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	21	106	98	0.3		1715376541	1715383741			
+170	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	21	106	144	0.3		1715376541	1715380141	1715383741		
+171	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	21	106	98	0.62		1715376541	1715380141	1715383741		
+172	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	21	106	143	0.56		1715376541	1715380141		1715380441	1715384041
+173	Erin Alexander | Content @ TechGC	contact	416	21	106	98	0.56		1715376541	1715383741			
+174	Ernesto Billones | Investor Relations Associate	contact	398	21	106	143	0.54		1715376541	1715383741	1715387341		
+175	Jesse Channon | Chief Commercial Officer at Columbia Care	contact	333	21	106	98	0.53		1715376541	1715380141	1715380321		1715380201
+176	Innovation CannaTech 2024	event	8	21	106	144	0.42		1715376541	1715380141	1715383741	1715380441	1715384041
+177	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	21	106	144	0.4		1715376541	1715380141	1715383741		
+178	Grower Spotlight: Aeriz	event	1222	21	106	144	0.39		1715376541	1715383741	1715390941	1715387341	1715380201
+179	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	21	106	143	0.39		1715376541	1715383741	1715387341	1715380441	1715384041
+180	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	21	106	98	0.37		1715376541	1715383741			
+181	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	21	107	99	0.38		1715376541	1715383741	1715380321		1715387341
+182	How R&D cannabis lines help cultivators conduct market research	content	82	21	107	98	0.31		1715376541	1715383741	1715390941	1715387341	1715380201
+183	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	21	107	143	0.31		1715376541	1715383741	1715394541	1715387341	1715390941
+184	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	21	107	99	0.3		1715376541	1715380141		1715380321	1715380201
+185	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	21	107	144	0.3		1715376541	1715380141	1715383741		
+186	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	21	107	98	0.62		1715376541	1715383741	1715387341		
+187	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	21	107	144	0.56		1715376541	1715383741	1715380201	1715387341	
+188	Erin Alexander | Content @ TechGC	contact	416	21	107	144	0.56		1715376541	1715383741			
+189	Ernesto Billones | Investor Relations Associate	contact	398	21	107	143	0.54		1715376541	1715383741		1715380441	1715387341
+190	Jesse Channon | Chief Commercial Officer at Columbia Care	contact	333	21	107	98	0.53		1715376541	1715383741	1715394541	1715387341	1715390941
+191	Innovation CannaTech 2024	event	8	21	107	98	0.42		1715376541	1715380141		1715380441	1715384041
+192	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	21	107	143	0.4		1715376541	1715380141		1715380441	1715384041
+193	Grower Spotlight: Aeriz	event	1222	21	107	99	0.39		1715376541	1715383741		1715387341	
+194	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	21	107	99	0.39		1715376541	1715383741		1715387341	1715390941
+195	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	21	107	99	0.37		1715376541	1715383741	1715394541	1715387341	1715390941
+196	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	22	108	98	0.38		1715376549	1715380149	1715380209		
+197	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	22	108	143	0.31		1715376549	1715383749			
+198	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	22	108	144	0.3		1715376549	1715383749	1715380209		1715387349
+199	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	22	108	99	0.3		1715376549	1715383749	1715380149	1715387349	
+200	Arizona cannabis social equity reform failure highlights broader struggle	content	39	22	108	143	0.28		1715376549	1715383749	1715394549	1715387349	1715390949
+201	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	22	108	143	0.62		1715376549	1715380149	1715383749		
+202	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	22	108	143	0.56		1715376549	1715383749	1715387349		
+203	Ernesto Billones | Investor Relations Associate	contact	398	22	108	144	0.54		1715376549	1715383749	1715380149	1715387349	1715390949
+204	Christine Parman | Cannabis	contact	220	22	108	99	0.52		1715376549	1715383749	1715380209	1715387349	
+205	Molly Rose | Partnerships at Checkr, Inc.	contact	221	22	108	99	0.49		1715376549		1715383749		
+206	Hiring in the 21st Century. How Your Cannabis Company Culture Changes Everything	event	1256	22	108	143	0.5		1715376549		1715383749		
+207	Rescheduling or Descheduling: How Future Federal Decisions May Impact the Industry	event	1190	22	108	144	0.4		1715376549	1715380149	1715383749		
+208	The Cannabis Conversation	event	435	22	108	99	0.4		1715376549	1715383749		1715387349	
+209	Grower Spotlight: Aeriz	event	1222	22	108	143	0.39		1715376549	1715383749			1715387349
+210	Science of Cannabis Symposium 2024 Series #1	event	863	22	108	143	0.39		1715376549	1715383749	1715390949		1715387349
+211	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	22	109	143	0.38		1715376549	1715380149	1715383749	1715380449	1715384049
+212	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	22	109	143	0.31		1715376549	1715383749	1715390949		1715387349
+213	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	22	109	143	0.3		1715376549	1715380149	1715383749	1715380449	
+214	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	22	109	98	0.3		1715376549	1715383749	1715380149		
+215	Arizona cannabis social equity reform failure highlights broader struggle	content	39	22	109	99	0.28		1715376549	1715383749	1715390949	1715387349	1715380209
+216	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	22	109	98	0.62		1715376549	1715383749		1715387349	1715380209
+217	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	22	109	144	0.56		1715376549				
+218	Ernesto Billones | Investor Relations Associate	contact	398	22	109	143	0.54		1715376549	1715380149	1715383749		
+219	Christine Parman | Cannabis	contact	220	22	109	144	0.52		1715376549	1715383749			1715387349
+220	Molly Rose | Partnerships at Checkr, Inc.	contact	221	22	109	143	0.49		1715376549	1715380149			
+221	Hiring in the 21st Century. How Your Cannabis Company Culture Changes Everything	event	1256	22	109	143	0.5		1715376549	1715380149	1715383749	1715380449	1715384049
+222	Rescheduling or Descheduling: How Future Federal Decisions May Impact the Industry	event	1190	22	109	143	0.4		1715376549	1715380149		1715380449	1715384049
+223	The Cannabis Conversation	event	435	22	109	98	0.4		1715376549	1715383749		1715387349	
+224	Grower Spotlight: Aeriz	event	1222	22	109	143	0.39		1715376549	1715383749		1715380329	1715387349
+225	Science of Cannabis Symposium 2024 Series #1	event	863	22	109	98	0.39		1715376549	1715383749	1715380149		1715387349
+226	How R&D cannabis lines help cultivators conduct market research	content	82	23	110	144	0.31		1715376563	1715380163		1715380463	
+227	British Columbia allows promotion of outdoor cannabis consumption areas	content	127	23	110	98	0.29		1715376563	1715383763	1715390963		1715387363
+228	Cookies sued again by cannabis retail partner in $100 million dispute	content	123	23	110	98	0.27		1715376563	1715383763	1715387363		
+229	Heavy outside influence in Missouri cannabis micro licensing, report says	content	135	23	110	143	0.27		1715376563	1715383763	1715394563	1715387363	1715390963
+230	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	23	110	99	0.26		1715376563		1715383763		
+231	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	23	110	143	0.56		1715376563	1715380163	1715383763		
+232	Erin Alexander | Content @ TechGC	contact	416	23	110	144	0.56		1715376563	1715383763			1715387363
+233	Ernesto Billones | Investor Relations Associate	contact	398	23	110	99	0.54		1715376563	1715383763	1715380163	1715387363	1715390963
+234	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	23	110	99	0.53		1715376563	1715380163	1715380343		1715380223
+235	Christine Parman | Cannabis	contact	220	23	110	98	0.52		1715376563	1715383763	1715390963	1715380343	1715387363
+236	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	23	110	143	0.44		1715376563	1715383763	1715394563	1715387363	1715390963
+237	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	23	110	143	0.4		1715376563	1715380163	1715383763	1715380343	1715380223
+238	Grower Spotlight: Aeriz	event	1222	23	110	98	0.39		1715376563	1715383763		1715380343	1715387363
+239	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	23	110	99	0.39		1715376563	1715383763	1715390963		1715387363
+240	AGronomic IQ: Maximizing Your Investment with Smart HVAC Decisions	event	1211	23	110	99	0.36		1715376563	1715380163	1715383763	1715380343	1715380223
+241	How R&D cannabis lines help cultivators conduct market research	content	82	23	111	98	0.31		1715376563	1715383763	1715380223	1715387363	1715390963
+242	British Columbia allows promotion of outdoor cannabis consumption areas	content	127	23	111	98	0.29		1715376563	1715383763		1715387363	1715390963
+243	Cookies sued again by cannabis retail partner in $100 million dispute	content	123	23	111	143	0.27		1715376563	1715383763			
+244	Heavy outside influence in Missouri cannabis micro licensing, report says	content	135	23	111	98	0.27		1715376563	1715383763	1715380163	1715387363	
+245	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	23	111	143	0.26		1715376563	1715383763		1715387363	1715390963
+246	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	23	111	98	0.56		1715376563	1715380163	1715383763	1715380343	1715380223
+247	Erin Alexander | Content @ TechGC	contact	416	23	111	98	0.56		1715376563	1715383763		1715380463	
+248	Ernesto Billones | Investor Relations Associate	contact	398	23	111	144	0.54		1715376563	1715380163			
+249	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	23	111	144	0.53		1715376563	1715383763		1715387363	1715380223
+250	Christine Parman | Cannabis	contact	220	23	111	144	0.52		1715376563	1715383763		1715380343	1715380223
+251	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	23	111	98	0.44		1715376563	1715380163	1715383763		1715380223
+252	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	23	111	98	0.4		1715376563	1715383763			1715387363
+253	Grower Spotlight: Aeriz	event	1222	23	111	143	0.39		1715376563	1715383763	1715387363	1715380463	1715384063
+254	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	23	111	143	0.39		1715376563	1715380163		1715380463	1715384063
+255	AGronomic IQ: Maximizing Your Investment with Smart HVAC Decisions	event	1211	23	111	99	0.36		1715376563	1715380163	1715383763	1715380463	1715384063
+256	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	24	112	143	0.38		1715376575	1715380175	1715383775	1715380355	1715380235
+257	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	24	112	143	0.31		1715376575	1715383775	1715380175		1715387375
+258	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	24	112	143	0.3		1715376575	1715383775		1715387375	
+259	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	24	112	98	0.3		1715376575	1715380175	1715383775		
+260	How R&D cannabis lines help cultivators conduct market research	content	82	24	112	144	0.3		1715376575	1715380175	1715383775		
+261	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	24	112	99	0.62		1715376575	1715383775		1715387375	1715390975
+262	Jesse Channon | Chief Commercial Officer at Columbia Care	contact	333	24	112	144	0.53		1715376575	1715383775	1715390975	1715380475	1715387375
+263	Christine Parman | Cannabis	contact	220	24	112	99	0.52		1715376575	1715383775		1715387375	
+264	Annie deKanter | Retail Channel Manager : Improving lives by providing clarity around cannabis and confidence around consumption	contact	410	24	112	144	0.5		1715376575		1715383775		
+265	Ernesto Billones | Investor Relations Associate	contact	398	24	112	144	0.49		1715376575	1715380175	1715383775	1715380355	1715380235
+266	Agrify: From Flower to Diamonds  How to Use Technology as Your Competitive Edge in Producing More and Higher Quality Cannabis SKUs	event	1194	24	112	144	0.47		1715376575	1715383775	1715390975	1715380475	1715387375
+267	Surna: What to Expect When You're Expanding or Retrofitting	event	1245	24	112	143	0.44		1715376575	1715380175		1715380475	1715384075
+268	Agrify: From Flower to Diamonds  How to Use Technology as Your Competitive Edge in Producing More and Higher Quality Cannabis SKUs Pt. II	event	1192	24	112	99	0.44		1715376575	1715380175	1715383775		
+269	Cultivating Customers: Mastering Cannabis Marketing in the Midwest | CC04	event	433	24	112	98	0.42		1715376575				
+270	Innovation CannaTech 2024	event	8	24	112	99	0.42		1715376575	1715383775		1715387375	1715384075
+271	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	25	113	144	0.38		1715376589	1715380189	1715383789		
+272	How R&D cannabis lines help cultivators conduct market research	content	82	25	113	98	0.31		1715376589		1715383789		
+273	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	25	113	143	0.31		1715376589	1715380189	1715383789	1715380489	1715384089
+274	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	25	113	98	0.3		1715376589	1715383789	1715390989	1715380369	1715387389
+275	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	25	113	99	0.3		1715376589	1715383789		1715380489	1715384089
+276	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	25	113	99	0.62		1715376589	1715383789		1715387389	1715390989
+277	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	25	113	143	0.56		1715376589	1715383789	1715390989		1715387389
+278	Erin Alexander | Content @ TechGC	contact	416	25	113	99	0.56		1715376589	1715383789	1715390989		1715387389
+279	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	25	113	144	0.56		1715376589	1715380189		1715380489	1715384089
+280	Cindy Kosydor | A builder. Of canna business, brands, talent and opportunity.	contact	429	25	113	144	0.49		1715376589	1715383789	1715380249	1715387389	
+281	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	25	113	98	0.44		1715376589	1715383789	1715390989		1715387389
+282	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	25	113	99	0.4		1715376589	1715380189	1715383789	1715380369	1715380249
+283	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	25	113	99	0.37		1715376589	1715383789		1715387389	1715384089
+284	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	25	113	144	0.37		1715376589	1715383789			1715387389
+285	Surna: What to Expect When You're Expanding or Retrofitting	event	1245	25	113	143	0.37		1715376589	1715380189	1715383789		1715380249
+286	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	25	114	143	0.38		1715376589	1715380189	1715383789	1715380369	1715380249
+287	How R&D cannabis lines help cultivators conduct market research	content	82	25	114	143	0.31		1715376589	1715380189	1715383789	1715380369	1715380249
+288	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	25	114	143	0.31		1715376589	1715383789	1715384209	1715380489	1715384089
+289	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	25	114	144	0.3		1715376589	1715383789	1715380369	1715387389	1715390989
+290	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	25	114	98	0.3		1715376589				
+291	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	25	114	144	0.62		1715376589	1715383789		1715380489	1715387389
+292	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	25	114	144	0.56		1715376589	1715383789			1715387389
+293	Erin Alexander | Content @ TechGC	contact	416	25	114	98	0.56		1715376589	1715383789		1715387389	1715390989
+294	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	25	114	99	0.56		1715376589	1715383789		1715387389	1715380249
+295	Cindy Kosydor | A builder. Of canna business, brands, talent and opportunity.	contact	429	25	114	98	0.49		1715376589	1715380189		1715380369	1715380249
+296	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	25	114	143	0.44		1715376589	1715380189		1715380369	1715380249
+297	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	25	114	99	0.4		1715376589		1715383789		
+298	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	25	114	143	0.37		1715376589	1715380189	1715383789	1715380369	1715380249
+299	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	25	114	144	0.37		1715376589	1715383789			1715387389
+300	Surna: What to Expect When You're Expanding or Retrofitting	event	1245	25	114	98	0.37		1715376589	1715383789	1715390989	1715380369	1715387389
+301	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	25	115	143	0.38		1715376589	1715383789		1715387389	1715380249
+302	How R&D cannabis lines help cultivators conduct market research	content	82	25	115	143	0.31		1715376589	1715380189	1715383789		
+303	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	25	115	143	0.31		1715376589	1715383789		1715380489	1715387389
+304	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	25	115	99	0.3		1715376589	1715383789			
+305	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	25	115	98	0.3		1715376589	1715383789		1715380369	1715387389
+306	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	25	115	98	0.62		1715376589	1715383789	1715380189		
+307	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	25	115	99	0.56		1715376589		1715383789		
+308	Erin Alexander | Content @ TechGC	contact	416	25	115	143	0.56		1715376589	1715383789	1715394589	1715387389	1715390989
+309	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	25	115	144	0.56		1715376589	1715383789	1715380189		1715387389
+310	Cindy Kosydor | A builder. Of canna business, brands, talent and opportunity.	contact	429	25	115	98	0.49		1715376589	1715380189	1715383789		
+311	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	25	115	143	0.44		1715376589	1715383789	1715387389		
+312	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	25	115	144	0.4		1715376589	1715383789			
+313	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	25	115	143	0.37		1715376589	1715383789	1715387389		
+314	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	25	115	98	0.37		1715376589	1715380189	1715380249		
+315	Surna: What to Expect When You're Expanding or Retrofitting	event	1245	25	115	98	0.37		1715376589	1715383789	1715380369		1715387389
+316	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	25	116	99	0.38		1715376589	1715380189	1715383789		1715380249
+317	How R&D cannabis lines help cultivators conduct market research	content	82	25	116	98	0.31		1715376589	1715383789		1715380369	1715387389
+318	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	25	116	143	0.31		1715376589	1715383789			
+319	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	25	116	143	0.3		1715376589	1715383789		1715380489	1715387389
+320	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	25	116	99	0.3		1715376589	1715383789			
+321	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	25	116	98	0.62		1715376589	1715383789	1715387389	1715380369	1715380249
+322	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	25	116	99	0.56		1715376589	1715380189	1715383789	1715380489	1715384089
+323	Erin Alexander | Content @ TechGC	contact	416	25	116	143	0.56		1715376589	1715380189	1715383789	1715380369	1715380249
+324	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	25	116	143	0.56		1715376589	1715383789	1715390989	1715380489	1715387389
+325	Cindy Kosydor | A builder. Of canna business, brands, talent and opportunity.	contact	429	25	116	143	0.49		1715376589	1715383789	1715380249		
+326	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	25	116	99	0.44		1715376589	1715383789			1715387389
+327	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	25	116	98	0.4		1715376589	1715380189	1715383789	1715380489	
+328	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	25	116	99	0.37		1715376589	1715383789	1715380249	1715387389	1715390989
+329	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	25	116	144	0.37		1715376589	1715383789		1715387389	1715390989
+330	Surna: What to Expect When You're Expanding or Retrofitting	event	1245	25	116	143	0.37		1715376589	1715383789		1715380489	
+331	Second round for Missouri cannabis microbusiness applications set for April	content	100	26	117	144	0.32		1715376598	1715383798	1715394598	1715387398	1715390998
+332	How R&D cannabis lines help cultivators conduct market research	content	82	26	117	144	0.31		1715376598	1715383798	1715387398		1715380258
+333	Institutional investor puts $50 million into cannabis operator Canopy Growth	content	14	26	117	143	0.28		1715376598	1715383798		1715380498	
+334	Want to shatter cannabis grass ceiling? Heres how these women did it	content	64	26	117	144	0.27		1715376598		1715383798		
+335	Cannabis operator Canopy raising $35 million in upsized private placement	content	2	26	117	99	0.27		1715376598	1715383798		1715380378	1715380258
+336	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	26	117	144	0.48		1715376598	1715380198	1715383798		
+337	david mcginley | owner of dirtbag boys	contact	259	26	117	144	0.44		1715376598	1715383798	1715380198		1715387398
+338	Ziva Cooper | Director of the UCLA Center for Cannabis and Cannabinoids	contact	291	26	117	98	0.43		1715376598	1715380198	1715383798		
+339	Cindy Kosydor | A builder. Of canna business, brands, talent and opportunity.	contact	429	26	117	99	0.43		1715376598	1715383798		1715380378	1715387398
+340	Carey Smith | Director of Consumer Engagement at 1906	contact	422	26	117	99	0.42		1715376598	1715380198	1715383798	1715380498	
+341	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	26	117	99	0.44		1715376598	1715383798		1715387398	
+342	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	26	117	144	0.41		1715376598	1715380198	1715383798	1715380378	1715380258
+343	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	26	117	144	0.36		1715376598	1715383798		1715380498	1715387398
+344	AGronomic IQ: Maximizing Your Investment with Smart HVAC Decisions	event	1211	26	117	143	0.36		1715376598	1715380198			
+345	Compassionate Oregon Cannabis and Healthcare  Event and Online Fundraiser	event	49	26	117	144	0.34		1715376598	1715380198	1715383798		1715380258
+346	Second round for Missouri cannabis microbusiness applications set for April	content	100	26	118	143	0.32		1715376598	1715383798	1715390998		1715387398
+347	How R&D cannabis lines help cultivators conduct market research	content	82	26	118	143	0.31		1715376598	1715380198	1715383798	1715380498	1715384098
+348	Institutional investor puts $50 million into cannabis operator Canopy Growth	content	14	26	118	143	0.28		1715376598	1715383798	1715390998	1715380498	1715387398
+349	Want to shatter cannabis grass ceiling? Heres how these women did it	content	64	26	118	143	0.27		1715376598	1715380198	1715383798		
+350	Cannabis operator Canopy raising $35 million in upsized private placement	content	2	26	118	144	0.27		1715376598	1715383798	1715394598	1715387398	1715390998
+351	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	26	118	143	0.48		1715376598	1715383798	1715390998		1715387398
+352	david mcginley | owner of dirtbag boys	contact	259	26	118	144	0.44		1715376598	1715383798	1715387398		1715380258
+353	Ziva Cooper | Director of the UCLA Center for Cannabis and Cannabinoids	contact	291	26	118	99	0.43		1715376598	1715383798	1715387398	1715380498	1715384098
+354	Cindy Kosydor | A builder. Of canna business, brands, talent and opportunity.	contact	429	26	118	144	0.43		1715376598		1715383798		
+355	Carey Smith | Director of Consumer Engagement at 1906	contact	422	26	118	99	0.42		1715376598				
+356	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	26	118	143	0.44		1715376598	1715380198			
+357	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	26	118	143	0.41		1715376598	1715383798	1715380258		1715387398
+358	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	26	118	144	0.36		1715376598	1715383798	1715394598	1715387398	1715390998
+359	AGronomic IQ: Maximizing Your Investment with Smart HVAC Decisions	event	1211	26	118	99	0.36		1715376598	1715383798		1715380378	1715387398
+360	Compassionate Oregon Cannabis and Healthcare  Event and Online Fundraiser	event	49	26	118	98	0.34		1715376598	1715380198	1715380258		
+361	Second round for Missouri cannabis microbusiness applications set for April	content	100	26	119	99	0.32		1715376598	1715383798	1715390998	1715387398	1715380258
+362	How R&D cannabis lines help cultivators conduct market research	content	82	26	119	98	0.31		1715376598	1715383798			
+363	Institutional investor puts $50 million into cannabis operator Canopy Growth	content	14	26	119	144	0.28		1715376598	1715383798	1715380258	1715387398	
+364	Want to shatter cannabis grass ceiling? Heres how these women did it	content	64	26	119	144	0.27		1715376598	1715383798	1715380378		1715387398
+365	Cannabis operator Canopy raising $35 million in upsized private placement	content	2	26	119	98	0.27		1715376598	1715383798	1715394598	1715387398	1715390998
+366	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	26	119	99	0.48		1715376598	1715383798	1715380378		1715387398
+367	david mcginley | owner of dirtbag boys	contact	259	26	119	98	0.44		1715376598	1715383798		1715387398	1715380258
+368	Ziva Cooper | Director of the UCLA Center for Cannabis and Cannabinoids	contact	291	26	119	144	0.43		1715376598	1715383798		1715387398	1715390998
+369	Cindy Kosydor | A builder. Of canna business, brands, talent and opportunity.	contact	429	26	119	143	0.43		1715376598	1715383798			1715387398
+370	Carey Smith | Director of Consumer Engagement at 1906	contact	422	26	119	143	0.42		1715376598	1715383798		1715380378	1715387398
+371	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	26	119	144	0.44		1715376598	1715383798	1715394598	1715387398	1715390998
+372	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	26	119	143	0.41		1715376598	1715383798		1715387398	1715380258
+373	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	26	119	99	0.36		1715376598	1715383798	1715380258		1715387398
+374	AGronomic IQ: Maximizing Your Investment with Smart HVAC Decisions	event	1211	26	119	144	0.36		1715376598	1715383798	1715390998	1715380498	1715387398
+375	Compassionate Oregon Cannabis and Healthcare  Event and Online Fundraiser	event	49	26	119	99	0.34		1715376598	1715383798		1715387398	1715380258
+376	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	27	120	98	0.38		1715376623	1715383823	1715380403		1715387423
+377	How R&D cannabis lines help cultivators conduct market research	content	82	27	120	143	0.31		1715376623	1715383823	1715380283		
+378	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	27	120	144	0.31		1715376623	1715383823			
+379	Heavy outside influence in Missouri cannabis micro licensing, report says	content	135	27	120	99	0.3		1715376623	1715383823		1715380403	1715387423
+380	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	27	120	98	0.3		1715376623	1715383823		1715387423	
+381	Ziva Cooper | Director of the UCLA Center for Cannabis and Cannabinoids	contact	291	27	120	99	0.62		1715376623	1715383823			
+382	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	27	120	98	0.62		1715376623	1715383823			1715387423
+383	Erin Alexander | Content @ TechGC	contact	416	27	120	98	0.56		1715376623	1715383823	1715391023		1715387423
+384	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	27	120	144	0.56		1715376623	1715383823	1715391023		1715387423
+385	Ernesto Billones | Investor Relations Associate	contact	398	27	120	144	0.54		1715376623	1715383823			1715387423
+386	Agrify: From Flower to Diamonds  How to Use Technology as Your Competitive Edge in Producing More and Higher Quality Cannabis SKUs	event	1194	27	120	98	0.47		1715376623	1715383823	1715391023		1715387423
+387	Agrify: From Flower to Diamonds  How to Use Technology as Your Competitive Edge in Producing More and Higher Quality Cannabis SKUs Pt. II	event	1192	27	120	143	0.44		1715376623	1715380223	1715383823		
+388	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	27	120	143	0.44		1715376623	1715383823	1715391023		1715387423
+389	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	27	120	143	0.4		1715376623	1715380223		1715380403	1715380283
+390	The Cannabis Conversation	event	435	27	120	98	0.4		1715376623	1715383823		1715387423	
+391	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	27	121	99	0.38		1715376623	1715383823	1715394623	1715387423	1715391023
+392	How R&D cannabis lines help cultivators conduct market research	content	82	27	121	98	0.31		1715376623	1715383823	1715391023		1715387423
+393	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	27	121	98	0.31		1715376623	1715380223	1715383823		
+394	Heavy outside influence in Missouri cannabis micro licensing, report says	content	135	27	121	144	0.3		1715376623	1715383823		1715387423	
+395	Canadian cannabis producer Organigram enters US, plans CA$25 million raise	content	70	27	121	99	0.3		1715376623		1715383823		
+396	Ziva Cooper | Director of the UCLA Center for Cannabis and Cannabinoids	contact	291	27	121	144	0.62		1715376623	1715380223	1715383823	1715380403	1715380283
+397	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	27	121	143	0.62		1715376623	1715380223		1715380403	1715380283
+398	Erin Alexander | Content @ TechGC	contact	416	27	121	99	0.56		1715376623	1715383823		1715387423	1715391023
+399	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	27	121	143	0.56		1715376623	1715383823		1715387423	
+400	Ernesto Billones | Investor Relations Associate	contact	398	27	121	99	0.54		1715376623	1715383823	1715391023	1715387423	1715384123
+401	Agrify: From Flower to Diamonds  How to Use Technology as Your Competitive Edge in Producing More and Higher Quality Cannabis SKUs	event	1194	27	121	144	0.47		1715376623	1715383823		1715380403	1715380283
+402	Agrify: From Flower to Diamonds  How to Use Technology as Your Competitive Edge in Producing More and Higher Quality Cannabis SKUs Pt. II	event	1192	27	121	144	0.44		1715376623	1715383823	1715391023		1715387423
+403	Supply Chain Challenges and Cannabis: A Global Outlook for 2022	event	1208	27	121	144	0.44		1715376623	1715383823	1715380223	1715387423	1715391023
+404	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	27	121	98	0.4		1715376623	1715383823	1715380283		
+405	The Cannabis Conversation	event	435	27	121	144	0.4		1715376623	1715383823	1715380223		
+406	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	28	122	143	0.38		1715376641	1715383841	1715387441		
+407	How R&D cannabis lines help cultivators conduct market research	content	82	28	122	98	0.34		1715376641	1715383841		1715387441	1715391041
+408	Second round for Missouri cannabis microbusiness applications set for April	content	100	28	122	99	0.32		1715376641	1715383841	1715391041	1715380541	1715387441
+409	Regulated marijuana offers new chance at equity: Q&A with social justice leader Martin Luther King III	content	5	28	122	99	0.32		1715376641	1715383841	1715391041		1715387441
+410	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	28	122	99	0.31		1715376641	1715383841			1715387441
+411	Ziva Cooper | Director of the UCLA Center for Cannabis and Cannabinoids	contact	291	28	122	144	0.62		1715376641	1715380241			1715380301
+412	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	28	122	144	0.55		1715376641	1715380241	1715383841	1715380541	1715384141
+413	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	28	122	143	0.54		1715376641	1715383841	1715387441		
+414	Christine Parman | Cannabis	contact	220	28	122	98	0.52		1715376641	1715380241	1715383841		
+415	Annie deKanter | Retail Channel Manager : Improving lives by providing clarity around cannabis and confidence around consumption	contact	410	28	122	143	0.5		1715376641	1715383841		1715380421	1715387441
+416	Cultivating Customers: Mastering Cannabis Marketing in the Midwest | CC04	event	433	28	122	99	0.42		1715376641	1715383841		1715387441	1715391041
+417	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	28	122	143	0.42		1715376641	1715380241		1715380541	1715384141
+418	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	28	122	144	0.41		1715376641	1715383841			
+419	Rescheduling or Descheduling: How Future Federal Decisions May Impact the Industry	event	1190	28	122	144	0.4		1715376641	1715380241	1715383841		1715380301
+420	The Cannabis Conversation	event	435	28	122	98	0.4		1715376641	1715383841	1715380241	1715387441	
+421	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	28	123	143	0.38		1715376641	1715383841		1715387441	1715391041
+422	How R&D cannabis lines help cultivators conduct market research	content	82	28	123	99	0.34		1715376641	1715383841			
+423	Second round for Missouri cannabis microbusiness applications set for April	content	100	28	123	98	0.32		1715376641	1715383841	1715391041	1715380541	1715387441
+424	Regulated marijuana offers new chance at equity: Q&A with social justice leader Martin Luther King III	content	5	28	123	99	0.32		1715376641	1715383841		1715380541	1715384141
+425	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	28	123	143	0.31		1715376641	1715380241	1715383841		1715380301
+426	Ziva Cooper | Director of the UCLA Center for Cannabis and Cannabinoids	contact	291	28	123	144	0.62		1715376641	1715383841	1715380241	1715387441	
+427	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	28	123	144	0.55		1715376641	1715383841		1715380421	1715380301
+428	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	28	123	143	0.54		1715376641	1715380241	1715383841	1715380421	1715380301
+429	Christine Parman | Cannabis	contact	220	28	123	98	0.52		1715376641				
+430	Annie deKanter | Retail Channel Manager : Improving lives by providing clarity around cannabis and confidence around consumption	contact	410	28	123	144	0.5		1715376641	1715383841	1715394641	1715387441	1715391041
+431	Cultivating Customers: Mastering Cannabis Marketing in the Midwest | CC04	event	433	28	123	98	0.42		1715376641	1715380241	1715383841		
+432	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	28	123	144	0.42		1715376641	1715380241	1715383841		
+433	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	28	123	98	0.41		1715376641	1715383841	1715391041		1715387441
+434	Rescheduling or Descheduling: How Future Federal Decisions May Impact the Industry	event	1190	28	123	98	0.4		1715376641	1715383841	1715391041		1715387441
+435	The Cannabis Conversation	event	435	28	123	144	0.4		1715376641		1715383841		
+436	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	28	124	143	0.38		1715376641	1715380241	1715383841		
+437	How R&D cannabis lines help cultivators conduct market research	content	82	28	124	144	0.34		1715376641	1715383841			
+438	Second round for Missouri cannabis microbusiness applications set for April	content	100	28	124	99	0.32		1715376641	1715383841	1715391041	1715387441	
+439	Regulated marijuana offers new chance at equity: Q&A with social justice leader Martin Luther King III	content	5	28	124	143	0.32		1715376641	1715383841			
+440	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	28	124	143	0.31		1715376641	1715380241		1715380541	1715384141
+441	Ziva Cooper | Director of the UCLA Center for Cannabis and Cannabinoids	contact	291	28	124	98	0.62		1715376641	1715380241	1715383841		
+442	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	28	124	99	0.55		1715376641	1715383841			
+443	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	28	124	98	0.54		1715376641	1715383841			1715387441
+444	Christine Parman | Cannabis	contact	220	28	124	144	0.52		1715376641	1715383841		1715380541	
+445	Annie deKanter | Retail Channel Manager : Improving lives by providing clarity around cannabis and confidence around consumption	contact	410	28	124	143	0.5		1715376641	1715383841		1715387441	1715391041
+446	Cultivating Customers: Mastering Cannabis Marketing in the Midwest | CC04	event	433	28	124	144	0.42		1715376641	1715383841			1715387441
+447	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	28	124	144	0.42		1715376641	1715383841	1715387441		
+448	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	28	124	99	0.41		1715376641	1715383841	1715391041		1715387441
+449	Rescheduling or Descheduling: How Future Federal Decisions May Impact the Industry	event	1190	28	124	143	0.4		1715376641	1715380241	1715383841	1715380541	1715384141
+450	The Cannabis Conversation	event	435	28	124	99	0.4		1715376641	1715383841	1715387441		
+451	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	28	125	144	0.38		1715376641	1715383841	1715387441		
+452	How R&D cannabis lines help cultivators conduct market research	content	82	28	125	143	0.34		1715376641	1715383841	1715380421		1715387441
+453	Second round for Missouri cannabis microbusiness applications set for April	content	100	28	125	98	0.32		1715376641	1715383841	1715394641	1715387441	1715391041
+454	Regulated marijuana offers new chance at equity: Q&A with social justice leader Martin Luther King III	content	5	28	125	144	0.32		1715376641	1715380241	1715383841	1715380541	
+455	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	28	125	99	0.31		1715376641	1715383841	1715387441		
+456	Ziva Cooper | Director of the UCLA Center for Cannabis and Cannabinoids	contact	291	28	125	99	0.62		1715376641	1715383841		1715380541	1715387441
+457	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	28	125	143	0.55		1715376641	1715383841	1715387441		
+458	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	28	125	98	0.54		1715376641	1715383841		1715380541	1715387441
+459	Christine Parman | Cannabis	contact	220	28	125	98	0.52		1715376641	1715383841	1715391041		1715387441
+460	Annie deKanter | Retail Channel Manager : Improving lives by providing clarity around cannabis and confidence around consumption	contact	410	28	125	144	0.5		1715376641	1715383841		1715380421	1715387441
+461	Cultivating Customers: Mastering Cannabis Marketing in the Midwest | CC04	event	433	28	125	144	0.42		1715376641	1715380241			
+462	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	28	125	98	0.42		1715376641	1715380241	1715383841		
+463	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	28	125	98	0.41		1715376641	1715380241	1715383841		
+464	Rescheduling or Descheduling: How Future Federal Decisions May Impact the Industry	event	1190	28	125	98	0.4		1715376641	1715380241	1715383841		1715380301
+465	The Cannabis Conversation	event	435	28	125	98	0.4		1715376641		1715383841		
+466	Cannabis operator Canopy raising $35 million in upsized private placement	content	2	29	126	143	0.4		1715376665	1715383865		1715387465	
+467	Institutional investor puts $50 million into cannabis operator Canopy Growth	content	14	29	126	143	0.38		1715376665	1715383865	1715387465		
+468	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	29	126	98	0.38		1715376665	1715380265		1715380445	1715380325
+469	AFC Gamma provides $34 million to Sunburn Cannabis in debt capital	content	69	29	126	98	0.37		1715376665	1715383865		1715387465	1715380325
+470	Chicago Atlantic lends $20 million to Nova Farms cannabis operator	content	45	29	126	98	0.36		1715376665	1715383865		1715387465	
+471	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	29	126	98	0.62		1715376665	1715383865		1715380445	1715380325
+472	Ziva Cooper | Director of the UCLA Center for Cannabis and Cannabinoids	contact	291	29	126	143	0.62		1715376665	1715383865			
+473	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	29	126	144	0.56		1715376665	1715383865	1715394665	1715387465	1715391065
+474	Harete Enriquez | Breakthrough Therapy for People Living with Parkinson’s Disease	contact	396	29	126	98	0.55		1715376665	1715383865	1715391065	1715380565	1715387465
+475	Annie deKanter | Retail Channel Manager : Improving lives by providing clarity around cannabis and confidence around consumption	contact	410	29	126	143	0.5		1715376665		1715383865		
+476	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	29	126	99	0.44		1715376665	1715383865		1715387465	1715391065
+477	Upwise Capital: Cannabis Business Financing on the Front Lines: Unsecured and Secured Debt Lending Options	event	1203	29	126	98	0.44		1715376665	1715383865	1715391065		1715387465
+478	Surna: What to Expect When You're Expanding or Retrofitting	event	1245	29	126	144	0.44		1715376665	1715383865		1715387465	1715384165
+479	Cultivating Customers: Mastering Cannabis Marketing in the Midwest | CC04	event	433	29	126	144	0.42		1715376665	1715383865	1715380265	1715387465	
+480	Rescheduling or Descheduling: How Future Federal Decisions May Impact the Industry	event	1190	29	126	143	0.4		1715376665	1715383865		1715380565	
+481	How R&D cannabis lines help cultivators conduct market research	content	82	30	127	99	0.31		1715376673	1715383873			
+482	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	30	127	144	0.3		1715376673	1715380273	1715383873	1715380453	1715380333
+483	Arizona cannabis social equity reform failure highlights broader struggle	content	39	30	127	144	0.3		1715376673	1715383873	1715391073	1715380573	1715387473
+484	MedMen receiver sets date to meet with creditors after cannabis MSOs bankruptcy filing	content	21	30	127	144	0.29		1715376673	1715380273			
+485	Real estate getting easier to access: Q&A with Story Cannabis CEO Jason Vedadi	content	131	30	127	144	0.28		1715376673	1715380273	1715383873	1715380453	1715380333
+486	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	30	127	143	0.62		1715376673	1715380273	1715383873	1715380453	1715380333
+487	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	30	127	99	0.56		1715376673	1715383873		1715387473	
+488	Erin Alexander | Content @ TechGC	contact	416	30	127	98	0.56		1715376673	1715383873	1715380453		1715380333
+489	Christine Parman | Cannabis	contact	220	30	127	98	0.56		1715376673		1715383873		
+490	Harete Enriquez | Breakthrough Therapy for People Living with Parkinson’s Disease	contact	396	30	127	144	0.55		1715376673	1715380273	1715383873	1715380573	
+491	Surna: What to Expect When You're Expanding or Retrofitting	event	1245	30	127	99	0.44		1715376673	1715383873	1715380453		1715380333
+492	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	30	127	98	0.43		1715376673	1715383873		1715387473	
+493	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	30	127	143	0.4		1715376673	1715380273	1715383873	1715380573	1715384173
+494	Psychedelics Investing Forum	event	19	30	127	144	0.4		1715376673	1715383873	1715380333		1715387473
+495	Los Angeles Cannabis Investor Conference	event	6	30	127	98	0.39		1715376673	1715383873	1715391073	1715380573	1715387473
+496	How R&D cannabis lines help cultivators conduct market research	content	82	30	128	98	0.31		1715376673	1715383873	1715391073		1715387473
+497	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	30	128	99	0.3		1715376673	1715383873			
+498	Arizona cannabis social equity reform failure highlights broader struggle	content	39	30	128	98	0.3		1715376673	1715383873			1715387473
+499	MedMen receiver sets date to meet with creditors after cannabis MSOs bankruptcy filing	content	21	30	128	143	0.29		1715376673	1715383873	1715391073		1715387473
+500	Real estate getting easier to access: Q&A with Story Cannabis CEO Jason Vedadi	content	131	30	128	98	0.28		1715376673	1715383873	1715380453		1715380333
+501	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	30	128	99	0.62		1715376673	1715383873	1715391073	1715387473	
+502	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	30	128	143	0.56		1715376673		1715380273		
+503	Erin Alexander | Content @ TechGC	contact	416	30	128	144	0.56		1715376673	1715380273			
+504	Christine Parman | Cannabis	contact	220	30	128	98	0.56		1715376673	1715383873	1715394673	1715387473	1715391073
+505	Harete Enriquez | Breakthrough Therapy for People Living with Parkinson’s Disease	contact	396	30	128	98	0.55		1715376673	1715383873	1715387473		
+506	Surna: What to Expect When You're Expanding or Retrofitting	event	1245	30	128	144	0.44		1715376673	1715383873			1715387473
+507	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	30	128	144	0.43		1715376673	1715383873	1715387473		
+508	Ignite your Cannabis Brand: Unconventional Strategies for Regulatory Market	event	430	30	128	98	0.4		1715376673	1715383873		1715380453	1715387473
+509	Psychedelics Investing Forum	event	19	30	128	99	0.4		1715376673	1715383873			1715387473
+510	Los Angeles Cannabis Investor Conference	event	6	30	128	99	0.39		1715376673	1715383873		1715380453	1715380333
+511	Massachusetts cannabis regulator expanding secret shopper program	content	71	32	133	144	0.31		1715376677	1715383877		1715380577	1715387477
+512	Opinion: What to consider when buying a Florida medical cannabis business license	content	124	32	133	143	0.29		1715376677	1715383877	1715380277		1715387477
+513	Cookies sued again by cannabis retail partner in $100 million dispute	content	123	32	133	143	0.29		1715376677	1715383877	1715391077		1715387477
+514	Regulated marijuana offers new chance at equity: Q&A with social justice leader Martin Luther King III	content	5	32	133	144	0.28		1715376677		1715383877		
+515	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	32	133	143	0.28		1715376677	1715383877	1715380277		
+516	Christine Parman | Cannabis	contact	220	32	133	143	0.64		1715376677	1715383877		1715380457	1715387477
+517	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	32	133	144	0.63		1715376677	1715383877	1715391077	1715380577	1715387477
+518	Ernesto Billones | Investor Relations Associate	contact	398	32	133	99	0.5		1715376677	1715380277	1715383877	1715380457	1715380337
+519	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	32	133	143	0.49		1715376677	1715383877	1715391077		1715387477
+520	David Gonzales | Founder of “A Cannabis Company” , #ÅCannabis Magician🐇🤠 , Specializes in verbal telekinesis	contact	290	32	133	99	0.48		1715376677	1715383877	1715380277	1715387477	
+521	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	32	133	143	0.42		1715376677	1715383877	1715391077		1715387477
+522	Canna Connect 04 Community Service Event | Uptown Minneapolis Clean Up	event	636	32	133	143	0.38		1715376677	1715380277	1715383877		
+523	PurePressure: How To: Designing a Solventless Processing Lab	event	1217	32	133	99	0.38		1715376677	1715383877		1715387477	1715384177
+524	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	32	133	143	0.37		1715376677	1715380277			
+525	HUB International: Making the Connection Between Risk Management and Profitability: A Guide for Cannabis Operators	event	1195	32	133	144	0.37		1715376677	1715380277		1715380457	1715380337
+526	Massachusetts cannabis regulator expanding secret shopper program	content	71	32	134	144	0.31		1715376677	1715383877			
+527	Opinion: What to consider when buying a Florida medical cannabis business license	content	124	32	134	98	0.29		1715376677	1715383877			
+528	Cookies sued again by cannabis retail partner in $100 million dispute	content	123	32	134	99	0.29		1715376677	1715383877		1715380577	1715384177
+529	Regulated marijuana offers new chance at equity: Q&A with social justice leader Martin Luther King III	content	5	32	134	143	0.28		1715376677	1715383877	1715380337		1715387477
+530	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	32	134	98	0.28		1715376677	1715383877	1715380277		
+531	Christine Parman | Cannabis	contact	220	32	134	143	0.64		1715376677	1715380277	1715383877	1715380577	1715384177
+532	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	32	134	98	0.63		1715376677	1715383877	1715391077		1715387477
+533	Ernesto Billones | Investor Relations Associate	contact	398	32	134	98	0.5		1715376677	1715383877	1715391077	1715380577	1715387477
+534	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	32	134	143	0.49		1715376677	1715383877		1715380577	1715387477
+535	David Gonzales | Founder of “A Cannabis Company” , #ÅCannabis Magician🐇🤠 , Specializes in verbal telekinesis	contact	290	32	134	98	0.48		1715376677	1715383877	1715387477		1715380337
+536	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	32	134	144	0.42		1715376677	1715380277	1715383877	1715380457	1715380337
+537	Canna Connect 04 Community Service Event | Uptown Minneapolis Clean Up	event	636	32	134	144	0.38		1715376677	1715383877			
+538	PurePressure: How To: Designing a Solventless Processing Lab	event	1217	32	134	99	0.38		1715376677	1715380277	1715380457		1715380337
+539	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	32	134	143	0.37		1715376677	1715383877			1715387477
+540	HUB International: Making the Connection Between Risk Management and Profitability: A Guide for Cannabis Operators	event	1195	32	134	98	0.37		1715376677	1715380277	1715383877	1715380577	1715384177
+541	Massachusetts cannabis regulator expanding secret shopper program	content	71	32	135	144	0.31		1715376677	1715380277		1715380457	1715380337
+542	Opinion: What to consider when buying a Florida medical cannabis business license	content	124	32	135	143	0.29		1715376677	1715383877	1715380337		1715387477
+543	Cookies sued again by cannabis retail partner in $100 million dispute	content	123	32	135	99	0.29		1715376677	1715383877	1715387477		
+544	Regulated marijuana offers new chance at equity: Q&A with social justice leader Martin Luther King III	content	5	32	135	99	0.28		1715376677	1715380277	1715383877	1715380577	1715384177
+545	Jushi looks to boost efficiency as it awaits new adult-use cannabis markets	content	86	32	135	98	0.28		1715376677	1715383877	1715391077	1715380457	1715387477
+546	Christine Parman | Cannabis	contact	220	32	135	98	0.64		1715376677	1715380277	1715383877		
+547	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	32	135	98	0.63		1715376677	1715383877	1715391077		1715387477
+548	Ernesto Billones | Investor Relations Associate	contact	398	32	135	143	0.5		1715376677	1715383877	1715380337		
+549	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	32	135	144	0.49		1715376677	1715383877			1715387477
+550	David Gonzales | Founder of “A Cannabis Company” , #ÅCannabis Magician🐇🤠 , Specializes in verbal telekinesis	contact	290	32	135	98	0.48		1715376677	1715383877	1715391077		1715387477
+551	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	32	135	98	0.42		1715376677	1715383877	1715391077		1715387477
+552	Canna Connect 04 Community Service Event | Uptown Minneapolis Clean Up	event	636	32	135	98	0.38		1715376677	1715383877	1715380277	1715387477	
+553	PurePressure: How To: Designing a Solventless Processing Lab	event	1217	32	135	99	0.38		1715376677	1715380277	1715383877	1715380577	1715384177
+554	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	32	135	144	0.37		1715376677	1715383877	1715391077	1715380577	1715387477
+555	HUB International: Making the Connection Between Risk Management and Profitability: A Guide for Cannabis Operators	event	1195	32	135	98	0.37		1715376677	1715380277			1715380337
+556	How R&D cannabis lines help cultivators conduct market research	content	82	33	136	99	0.31		1715376691	1715383891	1715391091		1715387491
+557	AFC Gamma is looking to finance unburdened cannabis borrowers	content	95	33	136	144	0.31		1715376691	1715383891	1715391091		1715387491
+558	Opinion: What to consider when buying a Florida medical cannabis business license	content	124	33	136	144	0.3		1715376691	1715383891			
+559	Heavy outside influence in Missouri cannabis micro licensing, report says	content	135	33	136	143	0.3		1715376691	1715383891			1715387491
+560	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	33	136	98	0.3		1715376691	1715383891	1715380351		
+561	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	33	136	143	0.56		1715376691	1715383891			1715387491
+562	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	33	136	143	0.5		1715376691	1715383891		1715387491	1715391091
+563	Annie deKanter | Retail Channel Manager : Improving lives by providing clarity around cannabis and confidence around consumption	contact	410	33	136	99	0.5		1715376691	1715383891		1715387491	1715391091
+564	David Gonzales | Founder of “A Cannabis Company” , #ÅCannabis Magician🐇🤠 , Specializes in verbal telekinesis	contact	290	33	136	98	0.49		1715376691	1715383891		1715380591	1715387491
+565	Carey Smith | Director of Consumer Engagement at 1906	contact	422	33	136	98	0.48		1715376691	1715380291	1715383891		
+566	Cultivating Customers: Mastering Cannabis Marketing in the Midwest | CC04	event	433	33	136	99	0.42		1715376691	1715383891	1715380351		1715387491
+567	Rescheduling or Descheduling: How Future Federal Decisions May Impact the Industry	event	1190	33	136	143	0.4		1715376691	1715383891	1715394691	1715387491	1715391091
+568	The Cannabis Conversation	event	435	33	136	98	0.4		1715376691	1715383891	1715391091	1715380471	1715387491
+569	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	33	136	98	0.39		1715376691	1715383891	1715391091	1715380591	1715387491
+570	Science of Cannabis Symposium 2024 Series #1	event	863	33	136	98	0.39		1715376691	1715383891	1715387491		
+571	Auxly auditor flags going concern risk as cannabis firm reports smaller loss	content	72	34	137	98	0.3		1715376695	1715383895	1715387495		
+572	Second round for Missouri cannabis microbusiness applications set for April	content	100	34	137	99	0.26		1715376695	1715380295		1715380595	1715384195
+573	New Zealand cannabis company Cannasouth reviewing financial health	content	67	34	137	144	0.26		1715376695	1715380295	1715383895	1715380475	1715380355
+574	Cannabis firm BZAM granted creditor protection with massive unpaid tax bills	content	109	34	137	98	0.25		1715376695	1715383895			1715387495
+575	British Columbia allows promotion of outdoor cannabis consumption areas	content	127	34	137	144	0.25		1715376695	1715383895	1715391095		1715387495
+576	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	34	137	99	0.62		1715376695	1715383895	1715380355		1715387495
+577	Jason Towns | Backing mission-driven founders & professionally knocking doors down…	contact	199	34	137	144	0.43		1715376695	1715383895	1715391095	1715387495	
+578	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	34	137	99	0.42		1715376695	1715383895	1715380295	1715387495	1715391095
+579	Jayson Tantalo | Cannabis has always been 99.99% of my life. Some people use it for medicine to survive and others sold it to survive. Anyway you look at it, cannabis has been saving lives for decades now. 26+ years and I’m still here.	contact	183	34	137	144	0.42		1715376695	1715383895	1715391095	1715380595	1715387495
+580	Carey Smith | Director of Consumer Engagement at 1906	contact	422	34	137	144	0.42		1715376695	1715383895		1715387495	
+581	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	34	137	143	0.37		1715376695	1715383895	1715394695	1715387495	1715391095
+582	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	34	137	98	0.37		1715376695	1715383895	1715380295		
+583	IRS Audits: Mistakes to Avoid	event	1202	34	137	143	0.36		1715376695	1715383895		1715387495	1715380355
+584	Major Franchise Opportunity Start Your Own Online Cannabis Store Free Event	event	635	34	137	143	0.35		1715376695	1715383895	1715380475		1715380355
+585	Network, Connect & Build Together Expo	event	830	34	137	143	0.34		1715376695	1715380295	1715383895	1715380595	
+586	Auxly auditor flags going concern risk as cannabis firm reports smaller loss	content	72	34	138	144	0.3		1715376695	1715383895	1715387495		
+587	Second round for Missouri cannabis microbusiness applications set for April	content	100	34	138	98	0.26		1715376695	1715380295	1715383895	1715380475	1715380355
+588	New Zealand cannabis company Cannasouth reviewing financial health	content	67	34	138	99	0.26		1715376695	1715383895		1715387495	1715391095
+589	Cannabis firm BZAM granted creditor protection with massive unpaid tax bills	content	109	34	138	143	0.25		1715376695	1715383895	1715380295		1715387495
+590	British Columbia allows promotion of outdoor cannabis consumption areas	content	127	34	138	99	0.25		1715376695	1715383895			
+591	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	34	138	99	0.62		1715376695	1715380295			
+592	Jason Towns | Backing mission-driven founders & professionally knocking doors down…	contact	199	34	138	99	0.43		1715376695	1715380295	1715383895		
+593	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	34	138	143	0.42		1715376695	1715380295	1715380355		
+594	Jayson Tantalo | Cannabis has always been 99.99% of my life. Some people use it for medicine to survive and others sold it to survive. Anyway you look at it, cannabis has been saving lives for decades now. 26+ years and I’m still here.	contact	183	34	138	98	0.42		1715376695	1715383895		1715380595	1715387495
+595	Carey Smith | Director of Consumer Engagement at 1906	contact	422	34	138	144	0.42		1715376695	1715383895		1715380595	1715384195
+596	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	34	138	144	0.37		1715376695	1715383895	1715380295		1715387495
+597	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	34	138	143	0.37		1715376695		1715383895		
+598	IRS Audits: Mistakes to Avoid	event	1202	34	138	144	0.36		1715376695	1715383895			1715387495
+599	Major Franchise Opportunity Start Your Own Online Cannabis Store Free Event	event	635	34	138	98	0.35		1715376695	1715383895	1715380475	1715387495	1715391095
+600	Network, Connect & Build Together Expo	event	830	34	138	143	0.34		1715376695	1715383895		1715380475	1715387495
+601	Auxly auditor flags going concern risk as cannabis firm reports smaller loss	content	72	34	139	143	0.3		1715376695	1715383895	1715391095	1715380595	1715387495
+602	Second round for Missouri cannabis microbusiness applications set for April	content	100	34	139	99	0.26		1715376695	1715380295	1715383895		
+603	New Zealand cannabis company Cannasouth reviewing financial health	content	67	34	139	99	0.26		1715376695	1715383895	1715384315	1715380595	1715384195
+604	Cannabis firm BZAM granted creditor protection with massive unpaid tax bills	content	109	34	139	143	0.25		1715376695	1715380295		1715380475	1715380355
+605	British Columbia allows promotion of outdoor cannabis consumption areas	content	127	34	139	98	0.25		1715376695	1715383895		1715387495	
+606	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	34	139	99	0.62		1715376695	1715380295	1715383895	1715380595	1715384195
+607	Jason Towns | Backing mission-driven founders & professionally knocking doors down…	contact	199	34	139	98	0.43		1715376695	1715383895		1715380595	1715384195
+608	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	34	139	99	0.42		1715376695	1715383895	1715391095		1715387495
+609	Jayson Tantalo | Cannabis has always been 99.99% of my life. Some people use it for medicine to survive and others sold it to survive. Anyway you look at it, cannabis has been saving lives for decades now. 26+ years and I’m still here.	contact	183	34	139	143	0.42		1715376695	1715383895	1715394695	1715387495	1715391095
+610	Carey Smith | Director of Consumer Engagement at 1906	contact	422	34	139	98	0.42		1715376695	1715383895	1715391095		1715387495
+611	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	34	139	144	0.37		1715376695	1715383895	1715380355	1715387495	1715391095
+612	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	34	139	99	0.37		1715376695	1715383895		1715387495	1715380355
+613	IRS Audits: Mistakes to Avoid	event	1202	34	139	143	0.36		1715376695	1715380295			
+614	Major Franchise Opportunity Start Your Own Online Cannabis Store Free Event	event	635	34	139	99	0.35		1715376695	1715380295	1715383895		
+615	Network, Connect & Build Together Expo	event	830	34	139	99	0.34		1715376695	1715383895		1715387495	1715391095
+616	Cookies sued again by cannabis retail partner in $100 million dispute	content	123	35	140	98	0.27		1715376700	1715380300	1715383900		
+617	Regulated marijuana offers new chance at equity: Q&A with social justice leader Martin Luther King III	content	5	35	140	144	0.26		1715376700		1715383900		
+618	Want to shatter cannabis grass ceiling? Heres how these women did it	content	64	35	140	99	0.25		1715376700	1715380300	1715383900		1715380360
+619	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	35	140	99	0.56		1715376700	1715383900	1715391100		1715387500
+620	Ernesto Billones | Investor Relations Associate	contact	398	35	140	99	0.54		1715376700	1715383900		1715387500	
+621	Christine Parman | Cannabis	contact	220	35	140	143	0.52		1715376700	1715383900	1715387500		
+622	Gabrielle Feldman | Program Manager for the Environmental Support Services Contract at NASA Ames Research Center	contact	386	35	140	99	0.48		1715376700	1715383900			
+623	Bill King | Managing Partner at Movi Partners Fin-Tech Investor, Board Member, Advisor, Ecosystem Catalyst	contact	165	35	140	144	0.46		1715376700	1715383900	1715394700	1715387500	1715391100
+624	Launch Your Own Cannabis Virtual ( Online ) Buisness In Person Event	event	437	35	140	99	0.43		1715376700		1715380300		
+625	Cannaglobe Opportunity Meeting	event	652	35	140	98	0.42		1715376700	1715383900	1715394700	1715387500	1715391100
+626	Network, Connect & Build Together Expo	event	830	35	140	99	0.41		1715376700	1715380300	1715383900	1715380480	1715380360
+627	Fund Your Business: Options for Raising Capital and Navigating M&A	event	1246	35	140	98	0.41		1715376700	1715383900		1715387500	
+628	Launch Your Very Own Virtual (Online)Cannabis Dispensary Store	event	1129	35	140	99	0.4		1715376700	1715383900		1715380600	1715384200
+629	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	36	141	143	0.38		1715376724	1715380324		1715380504	1715380384
+630	Second round for Missouri cannabis microbusiness applications set for April	content	100	36	141	144	0.32		1715376724	1715383924	1715391124		1715387524
+631	How R&D cannabis lines help cultivators conduct market research	content	82	36	141	144	0.31		1715376724	1715383924		1715380504	1715380384
+632	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	36	141	143	0.31		1715376724	1715383924			
+633	Opinion: How to prepare for cannabis inevitable future as a natural product	content	96	36	141	99	0.31		1715376724	1715383924	1715387524	1715380624	1715384224
+634	Ziva Cooper | Director of the UCLA Center for Cannabis and Cannabinoids	contact	291	36	141	99	0.62		1715376724	1715383924		1715380504	1715380384
+635	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	36	141	98	0.56		1715376724	1715383924	1715387524		
+636	Erin Alexander | Content @ TechGC	contact	416	36	141	144	0.56		1715376724	1715383924	1715387524	1715380624	1715384224
+637	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	36	141	143	0.56		1715376724	1715383924	1715391124	1715380504	1715387524
+638	Jesse Channon | Chief Commercial Officer at Columbia Care	contact	333	36	141	98	0.53		1715376724	1715383924	1715391124		1715387524
+639	Agrify: From Flower to Diamonds  How to Use Technology as Your Competitive Edge in Producing More and Higher Quality Cannabis SKUs	event	1194	36	141	98	0.47		1715376724	1715380324	1715383924	1715380624	1715384224
+640	Surna: What to Expect When You're Expanding or Retrofitting	event	1245	36	141	144	0.44		1715376724	1715383924	1715380384		
+641	Agrify: From Flower to Diamonds  How to Use Technology as Your Competitive Edge in Producing More and Higher Quality Cannabis SKUs Pt. II	event	1192	36	141	98	0.44		1715376724	1715383924		1715380504	1715380384
+642	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	36	141	99	0.43		1715376724	1715383924	1715387524		1715380384
+643	Cultivating Customers: Mastering Cannabis Marketing in the Midwest | CC04	event	433	36	141	144	0.42		1715376724	1715383924			1715387524
+644	Largest cannabis MSOs lay out modest expansion plans for 2024	content	137	36	142	98	0.38		1715376724	1715383924	1715380324		1715387524
+645	Second round for Missouri cannabis microbusiness applications set for April	content	100	36	142	144	0.32		1715376724	1715383924		1715387524	
+646	How R&D cannabis lines help cultivators conduct market research	content	82	36	142	143	0.31		1715376724	1715383924	1715391124	1715380624	1715387524
+647	280E, new markets and wholesale revenue highlight cannabis earnings season	content	76	36	142	143	0.31		1715376724		1715383924		
+648	Opinion: How to prepare for cannabis inevitable future as a natural product	content	96	36	142	98	0.31		1715376724	1715383924	1715387524		1715380384
+649	Ziva Cooper | Director of the UCLA Center for Cannabis and Cannabinoids	contact	291	36	142	99	0.62		1715376724	1715383924		1715387524	
+650	Laura Farren | Academic Research Partnerships @ CareEvolution | Master's Degrees, Public Administration and Public Health	contact	402	36	142	144	0.56		1715376724	1715383924		1715387524	
+651	Erin Alexander | Content @ TechGC	contact	416	36	142	99	0.56		1715376724	1715383924	1715394724	1715387524	1715391124
+652	Ruben Seyde | “The Cannabis Guy” | Delivered, Inc Founder | Sharing my experiences as a Mexican entrepreneur | Follow along for cannabis insights, behind-the-scenes action, and motivation	contact	280	36	142	143	0.56		1715376724	1715383924	1715391124		1715387524
+653	Jesse Channon | Chief Commercial Officer at Columbia Care	contact	333	36	142	144	0.53		1715376724	1715383924	1715394724	1715387524	1715391124
+654	Agrify: From Flower to Diamonds  How to Use Technology as Your Competitive Edge in Producing More and Higher Quality Cannabis SKUs	event	1194	36	142	98	0.47		1715376724	1715383924			
+655	Surna: What to Expect When You're Expanding or Retrofitting	event	1245	36	142	99	0.44		1715376724	1715380324		1715380624	
+656	Agrify: From Flower to Diamonds  How to Use Technology as Your Competitive Edge in Producing More and Higher Quality Cannabis SKUs Pt. II	event	1192	36	142	98	0.44		1715376724	1715380324	1715383924	1715380624	1715384224
+657	Supporting the Cannabis Industry with Industry Best Practice and Regulatory Compliance	event	1254	36	142	144	0.43		1715376724	1715383924			1715387524
+658	Cultivating Customers: Mastering Cannabis Marketing in the Midwest | CC04	event	433	36	142	99	0.42		1715376724	1715383924	1715387524		
