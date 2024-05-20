@@ -6,6 +6,7 @@ Based on the information available, build an analytics engine that can produce v
 
 Built with:
 Backend: Node.js and Express.js for the server, handling data reading and serving static files.
+
 Frontend: HTML for structure, CSS for styling, and JavaScript with D3.js for data visualization.
 
 To run: Open this link in the browser http://localhost:3000 and enter 'node server.js' in the terminal of the project directory.
